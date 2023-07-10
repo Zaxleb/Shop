@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c650c988.css",
+    "main.js": "/static/js/main.e5686d05.js",
+    "static/media/header-img.png": "/static/media/header-img.711f9262b2ecc18229c7.png",
+    "static/media/Women.png": "/static/media/Women.d20fa1bd540920a405f3.png",
+    "static/media/Men.png": "/static/media/Men.c9da5e2a0f2bbcc27aa4.png",
+    "static/media/About.png": "/static/media/About.5e53cff69e538288d405.png",
+    "static/media/negr.png": "/static/media/negr.ef3fa57616b3f7164494.png",
+    "static/media/Asserces.png": "/static/media/Asserces.77489a256fe30e65b93c.png",
+    "static/media/Rectrec.png": "/static/media/Rectrec.3bfe1294cb99fadbbaa1.png",
+    "static/media/Three-negrs.png": "/static/media/Three-negrs.c7a595014deee4926f71.png",
+    "static/media/leggings.png": "/static/media/leggings.da024d84b962c82c3eac.png",
+    "static/media/girl1.png": "/static/media/girl1.f8cb69fe3574d41d80f3.png",
+    "index.html": "/index.html",
+    "main.c650c988.css.map": "/static/css/main.c650c988.css.map",
+    "main.e5686d05.js.map": "/static/js/main.e5686d05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c650c988.css",
+    "static/js/main.e5686d05.js"
+  ]
+}
